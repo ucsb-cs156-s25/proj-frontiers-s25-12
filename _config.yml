@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-s25/proj-frontiers-s25-12
 owner: ucsb-cs156-s25
 repo_name: proj-frontiers-s25-12
-pull_requests: [{"author":{"id":"MDQ6VXNlcjQwNDQzMzY4","is_bot":false,"login":"yxz29315","name":"Shawn Zhang"},"headRefName":"yz-instructor-table","number":28,"title":"Create Instructor Table (entity and repository)","url":"https://github.com/ucsb-cs156-s25/proj-frontiers-s25-12/pull/28"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjQwNDQzMzY4","is_bot":false,"login":"yxz29315","name":"Shawn Zhang"},"headRefName":"yz-instructor-controller","number":29,"title":"yz-Create Backend CRUD operations for Instructor table (Admin only) (no Update actually; only CRD).","url":"https://github.com/ucsb-cs156-s25/proj-frontiers-s25-12/pull/29"},{"author":{"id":"MDQ6VXNlcjQwNDQzMzY4","is_bot":false,"login":"yxz29315","name":"Shawn Zhang"},"headRefName":"yz-instructor-table","number":28,"title":"Create Instructor Table (entity and repository)","url":"https://github.com/ucsb-cs156-s25/proj-frontiers-s25-12/pull/28"}]
