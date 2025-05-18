@@ -20,7 +20,7 @@ frontiers,edu.ucsb.cs156.frontiers.services,OrganizationMemberService.new TypeRe
 frontiers,edu.ucsb.cs156.frontiers.controllers,JobsController,0,98,0,2,0,20,0,11,0,10
 frontiers,edu.ucsb.cs156.frontiers.controllers,CSRFController,0,5,0,0,0,2,0,2,0,2
 frontiers,edu.ucsb.cs156.frontiers.controllers,UserInfoController,0,6,0,0,0,2,0,2,0,2
-frontiers,edu.ucsb.cs156.frontiers.controllers,RosterStudentsController,0,379,0,16,0,84,0,23,0,15
+frontiers,edu.ucsb.cs156.frontiers.controllers,RosterStudentsController,0,409,0,16,0,88,0,25,0,17
 frontiers,edu.ucsb.cs156.frontiers.controllers,CSVDownloadsController,0,101,0,0,0,21,0,5,0,5
 frontiers,edu.ucsb.cs156.frontiers.controllers,RosterStudentsController.InsertStatus,0,15,0,0,0,2,0,1,0,1
 frontiers,edu.ucsb.cs156.frontiers.controllers,CoursesController,0,188,0,6,0,40,0,12,0,9
