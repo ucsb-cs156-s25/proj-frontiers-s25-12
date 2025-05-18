@@ -99,7 +99,7 @@ import lombok.extern.slf4j.Slf4j;
 
 <span class="fc" id="L100">        Optional&lt;RosterStudent&gt; existing = rosterStudentRepository.findByCourseIdAndStudentId(courseId, studentId);</span>
 <span class="fc bfc" id="L101" title="All 2 branches covered.">        if (existing.isPresent()) {</span>
-<span class="fc" id="L102">            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, &quot;Another student in this course already has that student ID.&quot;);</span>
+<span class="fc" id="L102">            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, &quot;Another student in this course already has student ID &quot; + studentId + &quot;.&quot;);</span>
         }
 
 <span class="fc" id="L105">        RosterStudent rosterStudent = RosterStudent.builder()</span>
